@@ -26,4 +26,8 @@ The training process for the images is shown below:
 <p align="center">
   <img width="400" height="400" src="https://github.com/likhit-paruchuri/Pokemon-GAN/blob/master/output.gif">
 </p>
+The final output at 20k EPOCH is shown below:
+<p align="center">
+  <img width="400" height="400" src="https://github.com/likhit-paruchuri/Pokemon-GAN/blob/master/output/img_20000.jpg">
+</p>
 This project is still under progress and need more training.
