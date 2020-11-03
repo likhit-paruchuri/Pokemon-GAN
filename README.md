@@ -24,6 +24,6 @@ Set Continue_training to the highest value file in training_checkpoints to load 
 ## Output
 The training process for the images is shown below:
 <p align="center">
-  <img width="400" height="400" src="https://drive.google.com/uc?export=view&id=1p-ATakalWE6aA1ytToYEF-TFYnw6hmP_">
+  <img width="400" height="400" src="https://github.com/likhit-paruchuri/Pokemon-GAN/blob/master/output.gif">
 </p>
 This project is still under progress and need more training.
